@@ -5,6 +5,6 @@ import "../app.css";
 <svelte:head>
   <title>Threlte Starter</title>
 </svelte:head>
-<div class="absolute w-full h-full bg-slate-900">
+<div class="absolute w-full h-full">
   <slot />
 </div>
